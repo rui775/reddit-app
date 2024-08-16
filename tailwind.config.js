@@ -5,6 +5,9 @@ module.exports = {
   ],
   theme: {
     extend: {},
+    // colors: {
+    //   redditOrange: '#ea580c',
+    // }
   },
   plugins: [],
 }

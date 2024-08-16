@@ -9,7 +9,7 @@ const App: React.FC = () => {
       <header>
         <Navbar />
       </header>
-      <main className="container mx-auto flex mt-4">
+      <main className="container mx-auto flex mt-4 space-x-4">
         <Posts />
         <Submenu />
       </main>

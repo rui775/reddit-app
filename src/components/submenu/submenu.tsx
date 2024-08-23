@@ -15,9 +15,6 @@ const Submenu: React.FC = () => {
                         </a>
                     </li>
                 ))}
-                {/* <li className="mb-2"><a href="#">Menu Item 1</a></li>
-                <li className="mb-2"><a href="#">Menu Item 2</a></li>
-                <li className="mb-2"><a href="#">Menu Item 3</a></li> */}
             </ul>
         </aside>
     );
